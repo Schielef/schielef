@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   const Skills = [
     { languages: "JavaScript, HTML, CSS" },
     { frameworks: "React.js, Discord.js" },
-    { databses: "MongoDB" }
+    { databases: "MongoDB" }
   ];
   
   const Developer = new Developer("Xilef");
