@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   console.log("Hello World");
   
   const Name = "Felix";
-  const Age = 16;
+  const Age = 17;
   const Skills = [
     { languages: "JavaScript, HTML, CSS" },
     { frameworks: "React.js, Discord.js" },
