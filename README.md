@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   console.log("Hello World");
   
   const Name = "Felix";
-  const Age = 17;
+  const Age = 18;
   const Skills = [
-    { languages: "JavaScript, HTML, CSS" },
+    { languages: "JavaScript, HTML, CSS, C#" },
     { frameworks: "React.js, Discord.js" },
     { databases: "MongoDB" }
   ];
